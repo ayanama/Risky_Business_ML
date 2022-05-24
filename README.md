@@ -1,1 +1,3 @@
 # Risky_Business_ML
+
+In this analysis, I build and evaluate several machine learning models to predict credit risk using data that would typically be seen in peer-to-peer lending services. I use libraries such as Pandas, Sklearn, Imblearn, and Numpy to create these models. Using the balanced accuracy score, confusion maxtrix, and a classification report, I am able to analyze the effectiveness of each model.
